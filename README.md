@@ -6,3 +6,7 @@ With the growth of Information and Communication Technology, there is a need to 
 
 # Instructor Bio :
 - <h4>Debasis Samanta</h4> He holds a Ph.D. in Computer Science and Engineering from Indian Institute of Technology Kharagpur. His research interests and work experience spans the areas of Computational Intelligence, Data Analytics, Human Computer Interaction, Brain Computing and Biometric Systems. Dr. Samanta currently works as a faculty member at the Department of Computer Science & Engineering at IIT Kharagpur.
+
+# Credits
+- <a href="https://github.com/rahul87911">RAHUL MISHRA</a> 
+- Thanks for visting here.
